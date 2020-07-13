@@ -1,0 +1,3 @@
+10:22:24.347 [main] INFO  dev.service.AppService - Bonjour Slf4j
+10:22:24.349 [main] INFO  dev.service.AppService - implementation LogBack
+10:22:24.349 [main] INFO  dev.service.AppService - Hellooooooooo
